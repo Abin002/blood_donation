@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "908179505196",
+    "project_id": "bloodbank-5f5f5",
+    "storage_bucket": "bloodbank-5f5f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908179505196:android:017f8adda597c4e7ea9189",
+        "android_client_info": {
+          "package_name": "com.example.blood_donation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908179505196-l5vt13jb4f4q5020g50e7t4m0h2ul1is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqgxI4UeiLT-xLMRWOz99GbrZUsKj0xzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908179505196-l5vt13jb4f4q5020g50e7t4m0h2ul1is.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "908179505196-b8v7bbp0cpkeit3k5srr5re39fq3odlv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bloodDonation.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908179505196:android:2dd754c27499b99fea9189",
+        "android_client_info": {
+          "package_name": "com.example.bloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908179505196-l5vt13jb4f4q5020g50e7t4m0h2ul1is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqgxI4UeiLT-xLMRWOz99GbrZUsKj0xzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908179505196-l5vt13jb4f4q5020g50e7t4m0h2ul1is.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "908179505196-b8v7bbp0cpkeit3k5srr5re39fq3odlv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bloodDonation.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
